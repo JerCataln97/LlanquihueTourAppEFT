@@ -32,6 +32,6 @@ El proyecto fue creado a partir de una problemática en una agencia de turismo, 
 
 Abrir el proyecto en IntelliJ IDEA.
 
-Ejecuta el archivo Main.java que se encuentra en el paquete ui.
+Ejecuta el archivo Main.java que se encuentra en el paquete app.
 
 Sigue las instrucciones en la interfaz grafica.
