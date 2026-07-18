@@ -1,0 +1,4 @@
+EMPLEADO;EMP-1;Jeremy Catalan;Guia
+EMPLEADO;EMP-2;Sofia Fernandez;Guia
+EMPLEADO;EMP-3;Marcelo Alvarado;Chef
+
