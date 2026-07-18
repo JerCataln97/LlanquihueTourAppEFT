@@ -1,0 +1,2 @@
+
+CLI-1;Paseo Lacustre;10000;13:00;EMP-2

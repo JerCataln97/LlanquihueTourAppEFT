@@ -1,0 +1,5 @@
+EMPLEADO;EMP-1;Jeremy Catalan;Guia
+EMPLEADO;EMP-2;Sofia Fernandez;Guia
+EMPLEADO;EMP-3;Marcelo Alvarado;Chef
+PROVEEDOR;PROV-1;Nicolas Salgado;Gastronomia
+CLIENTE;CLI-1;Miguel Pereira;12345678-9
